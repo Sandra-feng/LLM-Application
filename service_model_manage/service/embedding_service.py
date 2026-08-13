@@ -1,10 +1,3 @@
-# -*- coding: UTF-8 -*-
-"""
-@Project ：tiance-base
-@File    ：embedding_service.py
-@Author  ：JianbinLi
-@Date    ：2024/08/27 17:19
-"""
 
 import openai
 from typing import Union

@@ -1,10 +1,4 @@
-#!/usr/bin/env python
-"""
-@File         :agent_vo.py
-@Description  :新规范智能体VO对象
-@Author       :zhou_min
-@Date         :2025/07/21
-"""
+
 
 from datetime import datetime
 from typing import Any, Optional

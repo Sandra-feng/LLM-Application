@@ -1,10 +1,4 @@
-# -*- encoding: utf-8 -*-
-'''
-@Project    :   tiance-base
-@File    :   xinference_config.py
-@Author  :   WEIHAO HONG 
-@Time    :   2024/08/27 14:42:13
-'''
+
 
 class XinferenceConfig(object):
     """

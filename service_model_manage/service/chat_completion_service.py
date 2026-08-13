@@ -1,11 +1,3 @@
-# -*- coding: UTF-8 -*-
-"""
-@Project ：tiance-base
-@File    ：chat_completion_service.py
-@Author  ：JianbinLi
-@Date    ：2024/08/29 09:36
-"""
-
 import base64
 import re
 from io import BytesIO

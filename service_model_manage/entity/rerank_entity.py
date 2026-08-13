@@ -1,10 +1,3 @@
-# -*- coding: UTF-8 -*-
-"""
-@Project ：tiance-base
-@File    ：rerank_entity.py
-@Author  ：JianbinLi
-@Date    ：2024/09/26 15:07
-"""
 from typing import List
 from pydantic import BaseModel, Field
 

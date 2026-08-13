@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+</head>
+<body>
+    <h1>Welcome to the Dashboard</h1>
+
+    <!-- Element 1: View Reports Button -->
+    {% if 'VIEW_REPORTS' in allowed_routes %}
+    <button onclick="viewReports()">View Reports</button>
+    {% endif %}
+
+    <!-- Element 2: Edit Settings Button -->
+    {% if 'EDIT_SETTINGS' in allowed_routes %}
+    <button onclick="editSettings()">Edit Settings</button>
+    {% endif %}
+
+    <!-- Element 3: Manage Users Button -->
+    {% if 'MANAGE_USERS' in allowed_routes %}
+    <button onclick="manageUsers()">Manage Users</button>
+    {% endif %}
+
+    <script>
+        function viewReports() {
+            alert("Viewing reports...");
+        }
+
+        function editSettings() {
+            alert("Editing settings...");
+        }
+
+        function manageUsers() {
+            alert("Managing users...");
+        }
+    </script>
+</body>
+</html>

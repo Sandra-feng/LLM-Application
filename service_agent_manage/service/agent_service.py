@@ -1,10 +1,3 @@
-#!/usr/bin/env python
-"""
-@File         :agent_service.py
-@Description  :
-@Author       :yunpeng
-@Date         :2024/10/30 09:47:38
-"""
 
 import ast
 import asyncio

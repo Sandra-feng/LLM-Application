@@ -1,10 +1,3 @@
-#!/usr/bin/env python
-"""
-@File         :toolset_entity.py
-@Description  :
-@Author       :PengYun
-@Date         :2024/10/29 19:55:29
-"""
 
 from typing import Optional
 

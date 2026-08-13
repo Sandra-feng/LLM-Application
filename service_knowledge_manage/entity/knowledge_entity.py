@@ -1,10 +1,4 @@
 from sqlalchemy import Float
-"""
-@File         :knowledge_entity.py
-@Description  :
-@Author       :QiangQu
-@Date         :2024/09/03 15:14:54
-"""
 
 from typing import Optional
 from pydantic import BaseModel, Field

@@ -1,9 +1,5 @@
 # -*- coding: UTF-8 -*-
 """
-@Project ：tiance-base
-@File    ：knowledge_retrieval_service.py
-@Author  ：zhou_min
-@Date    ：2025/09/24
 @Description: 统一的知识检索服务，整合了原有的复杂检索逻辑
 """
 

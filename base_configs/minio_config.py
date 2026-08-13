@@ -1,11 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: UTF-8 -*-
-"""
-@Project ：tiance-base 
-@File    ：minio_config.py
-@Author  ：TaoMeng
-@Date    ：2024/8/27 10:00 
-"""
+
 
 
 class MinioConfig(object):

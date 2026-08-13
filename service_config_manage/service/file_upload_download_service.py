@@ -1,11 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: UTF-8 -*-
-"""
-@Project ：tiance-base
-@File    ：file_upload_download_service.py
-@Author  ：YunPeng
-@Date    ：2024/8/28 9.50
-"""
 
 from loguru import logger
 import os

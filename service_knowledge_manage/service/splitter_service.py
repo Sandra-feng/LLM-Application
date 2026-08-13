@@ -1,15 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: UTF-8 -*-
-"""
-@Project ：tiance-base
-@File    ：splitter_service.py
-@Author  ：zhoumin
-@Date    ：2025-09-09
-@Description: 文本分割服务，支持多种分割策略，与RAG服务无缝集成
 
-该服务提供了多种文本分割策略，包括字符分割、递归分割、中文分割等，
-主要用于将长文本分割成适合向量化和检索的chunks。
-"""
 
 from loguru import logger
 import re

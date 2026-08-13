@@ -1,11 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: UTF-8 -*-
-"""
-@Project ：tiance-base 
-@File    ：config_service.py
-@Author  ：TaoMeng
-@Date    ：2024/8/26 9:59 
-"""
+
 from base_utils.ret_util import RetUtil
 from base_utils.mongodb_util import MongodbUtil
 

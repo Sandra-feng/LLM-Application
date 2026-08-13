@@ -1,11 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: UTF-8 -*-
-"""
-@Project ：tiance-base 
-@File    ：log_config.py
-@Author  ：TaoMeng
-@Date    ：2024/8/25 20:29 
-"""
+
 import os
 
 # 获取项目的绝对路径

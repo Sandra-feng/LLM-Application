@@ -1,10 +1,4 @@
-# -*- coding: UTF-8 -*-
-"""
-@Project ：tiance-base
-@File    ：embedding_test_entity.py
-@Author  ：JianbinLi
-@Date    ：2024/09/02 17:14
-"""
+
 
 from typing import List
 from pydantic import BaseModel, Field

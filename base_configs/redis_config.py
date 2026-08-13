@@ -1,0 +1,7 @@
+# Redis 配置
+REDIS_HOST = "10.8.21.165"
+REDIS_PORT = 6379
+REDIS_DB = 0
+REDIS_POOL_MIN_SIZE = 10  # 最小连接数
+REDIS_POOL_MAX_SIZE = 50  # 最大连接数
+PASSWORD = "Redis@2024.com"

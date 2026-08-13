@@ -1,10 +1,3 @@
-# -*- coding: UTF-8 -*-
-"""
-@Project ：tiance-base
-@File    ：rerank_util.py
-@Author  ：JianbinLi
-@Date    ：2024/09/18 17:04
-"""
 
 import json
 from loguru import logger

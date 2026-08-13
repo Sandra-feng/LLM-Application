@@ -1,11 +1,4 @@
-#!/usr/bin/env python
-# -*- encoding: utf-8 -*-
-"""
-@File         :knowledge_manage_api.py
-@Description  :
-@Author       :QiangQu
-@Date         :2024/09/03 14:58:50
-"""
+
 
 from base_configs.api_config import ApiConfig
 from service_knowledge_manage.api.routes import knowledge_route, file_route, knowledge_hub_route

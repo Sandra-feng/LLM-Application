@@ -1,10 +1,3 @@
-#!/usr/bin/env python
-"""
-@File         :knowledge_hub_entity.py
-@Description  :
-@Author       :QiangQu
-@Date         :2024/09/04 10:04:47
-"""
 
 from typing import Optional
 

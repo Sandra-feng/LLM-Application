@@ -1,11 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: UTF-8 -*-
-"""
-@Project ：tiance-base
-@File    ：mongodb_config.py
-@Author  ：TaoMeng
-@Date    ：2024/8/25 20:36
-"""
 
 
 class MongodbConfig(object):

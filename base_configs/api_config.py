@@ -1,11 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: UTF-8 -*-
-"""
-@Project ：tiance-base
-@File    ：api_config.py
-@Author  ：TaoMeng
-@Date    ：2024/8/25 22:49
-"""
 
 
 class ApiConfig:

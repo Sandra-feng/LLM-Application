@@ -1,10 +1,4 @@
-# -*- coding: UTF-8 -*-
-"""
-@Project ：tiance-base
-@File    ：rerank_service.py
-@Author  ：JianbinLi
-@Date    ：2024/08/28 09:21
-"""
+
 
 from typing import List, Optional
 from base_configs.api_config import ApiConfig

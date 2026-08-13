@@ -1,10 +1,3 @@
-#!/usr/bin/env python
-"""
-@File         :file_entity.py
-@Description  :
-@Author       :QiangQu
-@Date         :2024/09/03 17:33:49
-"""
 
 from pydantic import BaseModel, Field
 

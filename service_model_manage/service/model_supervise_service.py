@@ -1,9 +1,3 @@
-"""
-@Project    :   tiance-base
-@File    :   model_supervise_service.py
-@Author  :   WEIHAO HONG
-@Time    :   2024/08/27 14:22:56
-"""
 
 import asyncio
 from loguru import logger

@@ -1,10 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
 """
-@Project ：tiance-base
-@File    ：file_processing_service.py
-@Author  ：zhou_min
-@Date    ：2025/08/19
 @Description: 文件处理服务 - 重构后统一的文件上传、解析、入库逻辑
 """
 

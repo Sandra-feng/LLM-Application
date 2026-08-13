@@ -1,10 +1,3 @@
-# -*- coding: UTF-8 -*-
-"""
-@Project ：tiance-base
-@File    ：chat_completion_entity.py
-@Author  ：JianbinLi
-@Date    ：2024/08/29 13:54
-"""
 
 from typing import Optional
 

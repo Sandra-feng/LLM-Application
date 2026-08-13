@@ -1,10 +1,4 @@
-#!/usr/bin/env python
-"""
-@File         :model_manage_api.py
-@Description  :
-@Author       :QiangQu
-@Date         :2024/08/28 18:29:23
-"""
+
 
 from fastapi import APIRouter
 

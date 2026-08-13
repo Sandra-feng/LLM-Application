@@ -1,11 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: UTF-8 -*-
-"""
-@Project ：tiance-base 
-@File    ：excel_util.py.py
-@Author  ：TaoMeng
-@Date    ：2024/8/25 20:33 
-"""
+
 import xlrd
 import pandas as pd
 

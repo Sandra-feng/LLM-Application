@@ -1,11 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: UTF-8 -*-
-"""
-@Project ：tiance-base
-@File    ：milvus_util.py.py
-@Author  ：TaoMeng
-@Date    ：2024/8/25 20:21
-"""
+
 from typing import Optional
 from pathlib import Path
 import os

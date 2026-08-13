@@ -1,11 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: UTF-8 -*-
-"""
-@Project ：tiance-base
-@File    ：minio_util.py
-@Author  ：TaoMeng
-@Date    ：2024/8/27 10:14
-"""
 
 from typing import Optional
 from minio import Minio, S3Error

@@ -1,11 +1,4 @@
-#!/usr/bin/env python
-# -*- encoding: utf-8 -*-
-'''
-@Project    :   tiance-base
-@File    :   model_famliy_entity.py
-@Author  :   WEIHAO HONG 
-@Time    :   2024/08/28 14:12:04
-'''
+
 from service_model_manage.entity.common_type import ModelType
 from pydantic import BaseModel, Field
 from typing import Optional, List, Dict, Union

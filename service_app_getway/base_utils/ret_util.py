@@ -1,11 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: UTF-8 -*-
-"""
-@Project ：tiance-base 
-@File    ：ret_util.py.py
-@Author  ：TaoMeng
-@Date    ：2024/8/25 20:24 
-"""
+
 from typing import Union
 from fastapi.responses import JSONResponse, Response
 

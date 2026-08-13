@@ -1,11 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: UTF-8 -*-
-"""
-@Project ：tiance-base
-@File    ：chunk_result.py
-@Author  ：YunPeng
-@Date    ：2024/9/10 9.50
-"""
 
 import asyncio
 import datetime

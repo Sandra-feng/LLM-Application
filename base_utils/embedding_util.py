@@ -1,10 +1,4 @@
-# -*- coding: UTF-8 -*-
-"""
-@Project ：tiance-base
-@File    ：bge_util.py
-@Author  ：JianbinLi
-@Date    ：2024/09/13 17:57
-"""
+
 
 from typing import Union
 

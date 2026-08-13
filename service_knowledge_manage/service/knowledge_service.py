@@ -1,10 +1,4 @@
-#!/usr/bin/env python
-"""
-@Project    :   tiance-base
-@File    :   knowledge_service.py
-@Author  :   Shuo Shan
-@Time    :   2024/09/11 09:31:39
-"""
+
 
 import hashlib
 import io

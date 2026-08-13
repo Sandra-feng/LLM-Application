@@ -1,10 +1,3 @@
-# -*- coding: UTF-8 -*-
-"""
-@Project ：tiance-base
-@File    ：model_config.py
-@Author  ：ChenDu
-@Date    ：2025/05/20 17:33
-"""
 
 from base_configs.api_config import ApiConfig
 

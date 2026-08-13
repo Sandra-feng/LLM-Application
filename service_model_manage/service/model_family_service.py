@@ -1,10 +1,3 @@
-#!/usr/bin/env python
-"""
-@Project    :   tiance-base
-@File    :   model_family_service.py
-@Author  :   WEIHAO HONG
-@Time    :   2024/08/28 10:30:51
-"""
 
 from loguru import logger
 import re

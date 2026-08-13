@@ -1,11 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: UTF-8 -*-
-"""
-@Project ：tiance-base
-@File    ：get_model_info_service.py
-@Author  ：YunPeng
-@Date    ：2024/8/26 11.19
-"""
+
 from base_utils.ret_util import RetUtil
 from base_utils.mongodb_util import MongodbUtil
 from base_utils.log_util import LogUtil

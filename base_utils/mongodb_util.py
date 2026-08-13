@@ -1,11 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: UTF-8 -*-
-"""
-@Project ：tiance-base
-@File    ：mongodb_util.py
-@Author  ：TaoMeng
-@Date    ：2024/8/25 20:39
-"""
 
 from pymongo import MongoClient
 

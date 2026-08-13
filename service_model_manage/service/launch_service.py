@@ -1,10 +1,3 @@
-#!/usr/bin/env python
-"""
-@File         :launch_service.py
-@Description  :
-@Author       :QiangQu
-@Date         :2024/09/02 09:47:38
-"""
 
 import copy
 
